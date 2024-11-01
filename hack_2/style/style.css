@@ -1,0 +1,32 @@
+:root{
+    --bg-blue: #93B5C9;
+    --bg-wine: #AB2849;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+/*    box-sizing: border-box; */
+}
+
+.caja {
+    width: 100%;
+    height: 100px;   
+    background-color: var(--bg-wine);
+}
+
+.caja-1-azul {
+    background-color: var(--bg-blue);
+}
+
+.caja-2-wine {
+    height: 200px;
+}
+
+.caja-3-wine {
+    width: 75%;
+}
+
+.caja-4-wine {
+    width: 90%;
+}

@@ -1,0 +1,18 @@
+.caja {
+    position: relative;
+    bottom: auto;
+    top: auto;
+}
+
+.caja-3-wine {
+    margin-left: 25%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.caja-4-wine {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 5px;
+}
